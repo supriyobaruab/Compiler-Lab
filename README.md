@@ -2,5 +2,5 @@
 
 ## Problems TO-DO list
 
-- lab1(done)
-- lab2(middle)
+- lab1(untouched)
+- lab2(finished)
