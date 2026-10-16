@@ -1,5 +1,7 @@
 int main ( ) {
 int x ;
-x = 5 ; 
+x = 10 ; 
+float y = 2.5;
+cout << "Hello world" ;
 return 0 ;
 }
